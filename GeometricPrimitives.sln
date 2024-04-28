@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricPrimitives", "GeometricPrimitives\GeometricPrimitives.csproj", "{D1BC1553-486F-4855-9FBC-4393B90432AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BC1553-486F-4855-9FBC-4393B90432AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BC1553-486F-4855-9FBC-4393B90432AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BC1553-486F-4855-9FBC-4393B90432AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BC1553-486F-4855-9FBC-4393B90432AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5E1CF1-4FB8-4B9D-AA60-F29D7236C4F7}
+	EndGlobalSection
+EndGlobal
